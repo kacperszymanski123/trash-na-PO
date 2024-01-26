@@ -1,0 +1,17 @@
+d Monday
+k max-32-słowa m 0
+d Tuesday
+d Wednesday
+k max-32-słowa max-256-słów 1
+d Thursday
+c max-32-słowa max-256-słów 1
+c max-32-słowa max-256-słów 1
+c max-32-słowa max-256-słów 1
+k max-32-słowa max-256-słów 1
+k max-32-słowa max-256-słów 1
+d Friday
+d Saturday
+k max-32-słowa max-256-słów 1
+d Sunday
+c max-32-słowa max-256-słówss 1
+k max-32-słowa max-256-słóws 0
